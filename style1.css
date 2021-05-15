@@ -1,0 +1,94 @@
+
+body{
+	margin:0 auto;
+	background-image:url("img/education.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 720px;
+	background-attachment:fixed;
+	overflow:visible;
+	
+}
+.header{
+	height:75px;
+	width:100%;
+	background-color:rgba(5, 25, 25, 0.73);
+	
+	
+}
+.header a{
+	margin:5px;
+	margin-top:15px;
+	font-size:33px;
+	font-family:Cooper Std Black;
+}
+.header ul li{
+	float:right;
+	text-decoration:none;
+	padding:3px;
+	padding-top:1px;
+	list-style-type:none;	
+}
+.list li a{
+	font-size:15px;
+	font-family:News701 BT;
+}
+.list a{
+	color:white;
+}
+.header ul li:hover{
+	background-color:orange;
+	
+}
+.log-btn:hover{
+	background-color:green;
+}
+.forgt:hover{
+	background-color:red;
+}
+
+
+
+
+	
+
+.subjects a{
+    padding: 25px;
+	margin-left:5px;
+    font-size: 25px;
+    margin-top:15px;
+	color:black;
+    border-color:black;
+    border: solid black 4px;
+    border-radius: 20px;
+    text-decoration: none;
+    
+	background-color:brown;
+	float:left;
+}
+
+.subjects a:hover{
+	border:solid white 2px;
+
+}
+.notics{
+	height:400px;
+	width:300px;
+	float:right;
+	border:2px solid black;
+	border-radius:12px;
+	margin-right:15px;
+	
+	background-color:rgba(0, 0, 0, 0.93);
+}
+.notics ul li a{
+	text-decoration:none;
+	color:white;
+}
+.footer{
+	height:59px;
+	width:100%;
+	background-color:rgba(5, 25, 25, 0.92);
+	margin-top:440px;
+	
+	
+}
